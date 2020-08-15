@@ -11,6 +11,8 @@
 
 > A Simple Square and Pentagon Generator
 
+![Demo](/media.gif)
+
 ## Install
 
 ```sh
